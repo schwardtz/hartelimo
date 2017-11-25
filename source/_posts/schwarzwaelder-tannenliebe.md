@@ -7,7 +7,7 @@ waldwirtschaft in der flasche
 <!-- more -->*Dr. Thomas Binder - abgefüllt von [http://www.brauerei-rogg.de/](Brauerei Rogg)*
 Erfrischungsgetränk mit Tannenhonig
 
-### Geruch###
+### Geruch
 Tatsächlich leicht nach Tanne, stärker nach Süße, trotzdem gar nicht nach Weihnachten. 
 
 ### Aussehen
@@ -25,6 +25,6 @@ Baum im Saft ist keine schlechte Idee, dürfte für mich aber noch etwas tiefer 
 Pur:        3 / 5
 Gemischt:   2.5 / 5
 
-### Fazit
+### Weiteres
 [http://www.tannenliebe.de/Verkaufsstellen.html](hier)
 
