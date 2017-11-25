@@ -1,0 +1,154 @@
+html{
+  background: rgba(255,255,255,1);
+  font-size: 100%;
+  font-family: 'Open Sans', sans-serif;
+  letter-spacing: .4px;
+  transition: all ease-in .2s;
+}
+
+body{
+  padding: 0;
+  margin: 0;
+}
+
+h1{
+  top: 0;
+  a{
+    color: black;
+    transition: all ease-in .2s;
+    
+    &:hover,&:active,&:link{
+      color: #ff01c6;
+      text-decoration: none;
+    }
+  }
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  letter-spacing: 15px;
+  position: fixed;
+  color: black;
+  text-align: center; 
+  width: 100%;
+  overflow:hidden;
+  height: 14px;
+  transition: all ease-in .2s;
+  &:hover{
+    height: 24px;
+    color: #ff01c6;
+  }
+}
+
+article{
+  header{
+    
+    height: 100vh;
+    
+    background-size: cover;
+    color: white;
+    background-position: right center;
+    h2{
+      
+      letter-spacing: 5px;
+      font-size: 3rem;
+      line-height: 25px;
+      text-transform: lowercase;
+      span{
+        margin-top: -10px;
+      }
+      a{
+        color: white;
+          text-decoration: none;
+  transition: all ease-in .2s;
+          
+        
+        &:hover{
+      color: #ff01c6;
+          
+          text-decoration: none;
+        }
+      }
+    }
+    h2, h2+p{
+          position: relative;
+    top: 45vh;
+    left: 8vw;
+    width: 35vw;
+    margin-bottom: 10px;
+    }
+    p{
+      text-transform: lowercase;
+      color: white;
+      font-size: .9rem;
+    line-height: 1rem;
+    margin: 0;
+    }
+    
+  }
+  
+  main{
+    column-count: 2;
+    -moz-column-count: 2;
+    -webkit-column-count: 2;
+    column-gap: 4vw;
+    -webkit-column-gap: 4vw;
+    -moz-column-gap: 4vw;
+  break-before: column;
+   -webkit-break-before: column;
+   -moz-break-before: column;
+    padding: 4vw 8vw;
+    font-size: 12px;
+    color: #4c4c4c;
+    line-height: 1.3rem;
+    
+    h3{
+      color: black;
+      margin-bottom: .1rem;
+      text-transform: lowercase;
+      letter-spacing: 4.5px;
+    }
+    p{
+      margin-top:0;
+      margin-bottom: .2rem;
+    }
+    p+p{
+      margin-top: .5rem;
+    }
+  }
+}
+
+.impressum{ 
+  margin-top: 40vh;
+  text-align: center;
+  height: 60vh;
+  font-size: 12px;
+}
+
+footer{
+  a{
+    font-size: 11px;
+    float: right;
+    margin-right: 4vw;
+    padding-bottom: 2vh;
+  }
+  }
+  a{
+    color: black;
+    transition: all ease-in .3s;
+    &:hover{
+      color: #ff01c6;
+    }
+  }
+  
+@media screen and (max-width:900px){
+  article main {
+    column-count: 1;
+    -webkit-column-count: 1;
+    -moz-column-count: 1;
+  }
+  article header h2{
+    font-size: 2rem;
+  }
+  article header h2, article header p{
+    width: 90vw;
+  }
+}

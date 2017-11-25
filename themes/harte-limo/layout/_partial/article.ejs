@@ -1,0 +1,11 @@
+
+    <article>
+      <header style="background-image:url(/images/header/<%- post.slug %>.jpg);">
+        <h2><a href="<%- url_for(post.path) %>"><span><%- post.title %></span></a></h2>
+            <%- post.excerpt %>
+        </header>
+       <main>
+        <%- post.more %>
+      </main>
+    </article>
+
