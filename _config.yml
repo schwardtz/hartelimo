@@ -64,14 +64,3 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: harte-limo
-
-# Deployment
-## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: ftpsync
-  host: hartelimo.de
-  user: web119
-  pass: =;@+IIEf:8tW
-  remote: /hartelimo
-  port: 21
-
