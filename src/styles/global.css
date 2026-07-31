@@ -16,6 +16,7 @@ h1 {
   text-transform: uppercase;
   letter-spacing: 15px;
   position: fixed;
+  z-index: 10;
   color: black;
   text-align: center;
   width: 100%;
