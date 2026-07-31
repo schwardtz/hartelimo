@@ -4,6 +4,8 @@ date: 2017-05-12
 tags: [jarritos, guava, mexiko]
 excerpt: el chapos lieblingslimo
 heroImageAlt: Flasche Jarritos Guava auf einem Mini-Bleistiftgestell vor grauer Wand
+ratingPure: 3.5
+ratingMixed: 4
 ---
 *Mexican Soda Company GmbH & Co. KG*
 Guavenaroma mit Pink

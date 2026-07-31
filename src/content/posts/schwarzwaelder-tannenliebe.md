@@ -4,6 +4,8 @@ date: 2017-01-27
 tags: [schwarzwald, tannen, tannenhonig]
 excerpt: waldwirtschaft in der flasche
 heroImageAlt: Flasche Schwarzwälder Tannenliebe auf einem Mini-Bleistiftgestell vor dunkler Wand
+ratingPure: 3
+ratingMixed: 2.5
 ---
 *Dr. Thomas Binder - abgefüllt von [http://www.brauerei-rogg.de/](Brauerei Rogg)*
 Erfrischungsgetränk mit Tannenhonig

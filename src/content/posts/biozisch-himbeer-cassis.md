@@ -4,6 +4,8 @@ date: 2016-12-03
 tags: [biozisch, himbeer cassis]
 excerpt: BioZischchchchchch
 heroImageAlt: BioZisch Himbeer Cassis Flasche auf einem Mini-Bleistiftgestell vor grauer Wand
+ratingPure: 3.5
+ratingMixed: 4
 ---
 *Voelkel - Höhbeck*
 Limo mit Himbeer Cassis

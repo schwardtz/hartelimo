@@ -17,9 +17,34 @@ interface Props {
 const { post } = Astro.props;
 const { Content } = await render(post);
 const heroBase = `/images/posts/${post.id}`;
+
+const ratingValue = post.data.ratingMixed ?? post.data.ratingPure;
+const reviewSchema = ratingValue === undefined ? null : {
+  '@context': 'https://schema.org',
+  '@type': 'Review',
+  itemReviewed: {
+    '@type': 'Product',
+    name: post.data.title,
+  },
+  reviewRating: {
+    '@type': 'Rating',
+    ratingValue,
+    bestRating: 5,
+    worstRating: 0,
+  },
+  author: {
+    '@type': 'Person',
+    name: 'Johannes Klinger',
+  },
+  datePublished: post.data.date.toISOString().slice(0, 10),
+  reviewBody: post.data.excerpt,
+};
 ---
 
 <BaseLayout title={post.data.title} description={post.data.excerpt}>
+  {reviewSchema && (
+    <script type="application/ld+json" is:inline set:html={JSON.stringify(reviewSchema)} />
+  )}
   <article>
     <header>
       <img

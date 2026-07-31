@@ -4,6 +4,8 @@ date: 2017-05-12
 tags: [Holunder, birne, bittenfeld]
 excerpt: da lässt man sich nicht zweimal bitten(felder)
 heroImageAlt: Flasche Bittenfelder Holunderblüten-Birne auf einem Mini-Bleistiftgestell vor grauer Wand
+ratingPure: 2
+ratingMixed: 3.5
 ---
 *Bittenfelder Fruchtsäfte Petershans GmbH & Co KG Getränkevertrieb*
 Birne-Holunder Bittenfeld!

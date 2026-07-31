@@ -9,6 +9,8 @@ const posts = defineCollection({
     tags: z.array(z.string()).default([]),
     excerpt: z.string(),
     heroImageAlt: z.string(),
+    ratingPure: z.number().min(0).max(5).optional(),
+    ratingMixed: z.number().min(0).max(5).optional(),
   }),
 });
 

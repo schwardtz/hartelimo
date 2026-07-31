@@ -4,6 +4,8 @@ date: 2017-03-22
 tags: [schwarzwald, tannen, tannenhonig]
 excerpt: g-g-g-g-g-g-g ginger bomb
 heroImageAlt: Flasche Ginger Bomb auf einem Mini-Bleistiftgestell vor grauer Wand
+ratingPure: 3.5
+ratingMixed: 3.5
 ---
 *485°*
 Ingwer-Limo aus der Pizzeria

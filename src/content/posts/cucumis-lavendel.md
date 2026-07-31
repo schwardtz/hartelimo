@@ -4,6 +4,8 @@ date: 2017-03-17
 tags: [Lavendel, Cucumis, Gurke]
 excerpt: aus dem garten, die kehle runter
 heroImageAlt: Flasche Cucumis Lavendel auf einem Mini-Bleistiftgestell vor grauer Wand
+ratingPure: 3.5
+ratingMixed: 3.5
 ---
 *CUCUMIS GMBH*
 

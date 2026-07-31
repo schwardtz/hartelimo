@@ -4,6 +4,8 @@ date: 2016-12-08
 tags: [tamarind, pampa, fizz]
 excerpt: man müsste wissen, wie tamarinde schmeckt
 heroImageAlt: Dose Pampa Fizz Tamarind auf einem Mini-Bleistiftgestell vor dunkler Wand
+ratingPure: 1
+ratingMixed: 1.5
 ---
 *Pampa*
 Limo mit Tamarinde-Geschmack

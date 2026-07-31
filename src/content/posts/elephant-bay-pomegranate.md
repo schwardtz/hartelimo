@@ -4,6 +4,8 @@ date: 2016-11-12
 tags: []
 excerpt: Am Neckar ist fast am Meer
 heroImageAlt: Flasche Elephant Bay Pomegranate Eistee auf einem Mini-Bleistiftgestell vor grauer Wand
+ratingPure: 2.5
+ratingMixed: 3
 ---
 *K&K Beverage GmbH - Stuttgart*
 Eistee mit Granatapfelgeschmack
