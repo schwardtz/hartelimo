@@ -7,3 +7,4 @@ node_modules/
 CLAUDE.md
 dist/
 .astro/
+public/images/posts/

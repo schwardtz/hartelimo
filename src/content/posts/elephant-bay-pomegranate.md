@@ -3,7 +3,6 @@ title: elephant bay - Pomegranate
 date: 2016-11-12
 tags: []
 excerpt: Am Neckar ist fast am Meer
-heroImage: ./elephant-bay-pomegranate.jpg
 heroImageAlt: Flasche Elephant Bay Pomegranate Eistee auf einem Mini-Bleistiftgestell vor grauer Wand
 ---
 *K&K Beverage GmbH - Stuttgart*

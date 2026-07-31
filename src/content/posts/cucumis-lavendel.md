@@ -3,7 +3,6 @@ title: Cucumis - Lavendel
 date: 2017-03-17
 tags: [Lavendel, Cucumis, Gurke]
 excerpt: aus dem garten, die kehle runter
-heroImage: ./cucumis-lavendel.jpg
 heroImageAlt: Flasche Cucumis Lavendel auf einem Mini-Bleistiftgestell vor grauer Wand
 ---
 *CUCUMIS GMBH*

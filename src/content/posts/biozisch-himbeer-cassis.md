@@ -3,7 +3,6 @@ title: biozisch - himbeer cassis
 date: 2016-12-03
 tags: [biozisch, himbeer cassis]
 excerpt: BioZischchchchchch
-heroImage: ./biozisch-himbeer-cassis.jpg
 heroImageAlt: BioZisch Himbeer Cassis Flasche auf einem Mini-Bleistiftgestell vor grauer Wand
 ---
 *Voelkel - Höhbeck*

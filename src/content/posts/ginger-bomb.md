@@ -3,7 +3,6 @@ title: Ginger Bomb
 date: 2017-03-22
 tags: [schwarzwald, tannen, tannenhonig]
 excerpt: g-g-g-g-g-g-g ginger bomb
-heroImage: ./ginger-bomb.jpg
 heroImageAlt: Flasche Ginger Bomb auf einem Mini-Bleistiftgestell vor grauer Wand
 ---
 *485°*

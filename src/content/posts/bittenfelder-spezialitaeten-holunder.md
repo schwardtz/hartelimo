@@ -3,7 +3,6 @@ title: Bittenfelder-Spezialitäten - Holunderblüten Birne
 date: 2017-05-12
 tags: [Holunder, birne, bittenfeld]
 excerpt: da lässt man sich nicht zweimal bitten(felder)
-heroImage: ./bittenfelder-spezialitaeten-holunder.jpg
 heroImageAlt: Flasche Bittenfelder Holunderblüten-Birne auf einem Mini-Bleistiftgestell vor grauer Wand
 ---
 *Bittenfelder Fruchtsäfte Petershans GmbH & Co KG Getränkevertrieb*

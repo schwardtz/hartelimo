@@ -3,7 +3,6 @@ title: Der große Blechbembeltest
 date: 2017-07-29
 tags: [äppler, most, mischgetränk, blauerbock, myschoppe, bembel with care, possmann]
 excerpt: apfel in großen dosen
-heroImage: ./blechbembel.jpg
 heroImageAlt: Vier Apfelwein-Dosen (Blauer Bock, my Schoppe, Bembel with Care, Äppler) nebeneinander auf einem Holzboden
 ---
 Wenn man in eine neue Stadt zieht hat man verschiedene Möglichkeiten. Man kann sein altes Lebensgefühl importieren, oder vollständig in der neuen Kultur aufgehen. Die neue Kultur in dem Fall sind Blechbembel. Eine großartiges Convenient-Produkt, dessen Siegeszug auch außerhalb Hessens nicht lange auf sich warten lassen kann. Gemeinsam bei allen abgebildeten Dosen ist die Mischung von Apfelwein mit saurem Sprudelwasser. 

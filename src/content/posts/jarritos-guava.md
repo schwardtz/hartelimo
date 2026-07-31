@@ -3,7 +3,6 @@ title: Jarritos Guava
 date: 2017-05-12
 tags: [jarritos, guava, mexiko]
 excerpt: el chapos lieblingslimo
-heroImage: ./jarritos-guava.jpg
 heroImageAlt: Flasche Jarritos Guava auf einem Mini-Bleistiftgestell vor grauer Wand
 ---
 *Mexican Soda Company GmbH & Co. KG*

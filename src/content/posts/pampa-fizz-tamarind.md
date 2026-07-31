@@ -3,7 +3,6 @@ title: Pampa - fizz tamarind
 date: 2016-12-08
 tags: [tamarind, pampa, fizz]
 excerpt: man müsste wissen, wie tamarinde schmeckt
-heroImage: ./pampa-fizz-tamarind.jpg
 heroImageAlt: Dose Pampa Fizz Tamarind auf einem Mini-Bleistiftgestell vor dunkler Wand
 ---
 *Pampa*
