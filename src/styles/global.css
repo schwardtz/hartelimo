@@ -109,6 +109,16 @@ article header p {
   line-height: 1rem;
 }
 
+article header p a {
+  color: white;
+  text-decoration: underline;
+  transition: color ease-in 0.2s;
+}
+
+article header p a:hover {
+  color: #ff01c6;
+}
+
 article main {
   column-count: 2;
   column-gap: 4vw;

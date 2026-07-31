@@ -1,0 +1,29 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  post: CollectionEntry<'posts'>;
+  eager?: boolean;
+}
+
+const { post, eager = false } = Astro.props;
+const href = `/posts/${post.id}/`;
+const heroBase = `/images/posts/${post.id}`;
+---
+
+<article>
+  <header>
+    <img
+      class="hero-image"
+      src={`${heroBase}-1200.webp`}
+      srcset={`${heroBase}-640.webp 640w, ${heroBase}-1200.webp 1200w, ${heroBase}-1920.webp 1920w`}
+      sizes="100vw"
+      alt={post.data.heroImageAlt}
+      loading={eager ? 'eager' : 'lazy'}
+      decoding="async"
+    />
+    <div class="hero-scrim"></div>
+    <h2><a href={href}><span>{post.data.title}</span></a></h2>
+    <p>{post.data.excerpt} <a href={href}>weiterlesen</a></p>
+  </header>
+</article>
