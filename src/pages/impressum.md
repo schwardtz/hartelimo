@@ -13,7 +13,7 @@ Alpenrosenstr.,42
 
 Kontakt:
 
-E-Mail: geil@hartelimo.de
+E-Mail: geil@harte-limo.de
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
 Johanne Klinger
